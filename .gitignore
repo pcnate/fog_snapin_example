@@ -1,6 +1,6 @@
 .git
-x86/*.exe
-x86/*.msi
+x86/*
+!x86/README
 
-x86_64/*.exe
-x86_64/*.msi
+x86_64/*
+!x86_64/README
